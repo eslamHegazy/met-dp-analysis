@@ -1,0 +1,20 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data files (if large or generated)
+data/
+*.csv
+*.xlsx
+
+# Logs and temporary files
+*.log
+tmp/
